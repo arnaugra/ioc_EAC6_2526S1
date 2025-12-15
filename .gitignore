@@ -1,0 +1,27 @@
+# Temporary files
+*~
+
+# carpetes
+data/*
+!data/.gitkeep
+docs/*
+!docs/.gitkeep
+img/*
+!img/.gitkeep
+informes/*
+!informes/.gitkeep
+mlruns/*
+!mlruns/.gitkeep
+model/*
+!model/.gitkeep
+tests/data/*
+!tests/data/.gitkeep
+venv/*
+!venv/.gitkeep
+
+# altres
+llegir.txt
+vscode/
+__pycache__/
+*.pyc
+mlflow.db
